@@ -1,0 +1,40 @@
+# Compiled files
+*.exe
+*.o
+*.obj
+*.dll
+*.so
+*.a
+
+# Build directories
+build/
+bin/
+obj/
+Debug/
+Release/
+
+# Log files
+*.log
+server.log
+handler.log
+
+# IDE files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Temporary files
+*.tmp
+*.temp
+*.bak
+
+# Makefile outputs
+*.d
+*.dep
